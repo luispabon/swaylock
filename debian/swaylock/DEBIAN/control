@@ -1,0 +1,10 @@
+Package: swaylock
+Version: 1.4-1~disco
+Architecture: amd64
+Maintainer: Aleksey Samoilov <samoilov.lex@gmail.com>
+Installed-Size: 114
+Depends: libc6 (>= 2.28), libcairo2 (>= 1.2.4), libgdk-pixbuf2.0-0 (>= 2.31.1), libglib2.0-0 (>= 2.12.0), libpam0g (>= 0.99.7.1), libwayland-client0 (>= 1.9.91), libxkbcommon0 (>= 0.5.0)
+Section: x11
+Priority: optional
+Homepage: https://github.com/swaywm/swaylock
+Description: swaylock is a screen locking utility for Wayland compositors

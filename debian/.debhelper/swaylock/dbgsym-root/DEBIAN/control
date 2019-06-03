@@ -1,0 +1,13 @@
+Package: swaylock-dbgsym
+Package-Type: ddeb
+Source: swaylock
+Version: 1.4-1~disco
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Aleksey Samoilov <samoilov.lex@gmail.com>
+Installed-Size: 32
+Depends: swaylock (= 1.4-1~disco)
+Section: debug
+Priority: optional
+Description: debug symbols for swaylock
+Build-Ids: 7a025890bc1a50515ccdbe1f89f03e7b32b9b73c

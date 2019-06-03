@@ -1,0 +1,3 @@
+swaylock-dbgsym_1.4-1~disco_amd64.ddeb debug optional automatic=yes
+swaylock_1.4-1~disco_amd64.buildinfo x11 optional
+swaylock_1.4-1~disco_amd64.deb x11 optional

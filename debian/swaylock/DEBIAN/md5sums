@@ -1,0 +1,7 @@
+1b1b4b30bb4118a3de561bf9ee01f51d  usr/bin/swaylock
+5aaab265ad816bf945b916abed057c1a  usr/share/bash-completion/completions/swaylock
+7cc804fa94ee3522ca1a8ae586ad8815  usr/share/doc/swaylock/changelog.Debian.gz
+de59ab1851682c60bbafa4075a5e21a8  usr/share/doc/swaylock/copyright
+f96abe37f854f84b4961e56777209118  usr/share/fish/completions/swaylock.fish
+a89e0a0621d945d1663df29df1a8ed3d  usr/share/man/man1/swaylock.1.gz
+3bc673c81ff28c3f57ef3c4fe07cb310  usr/share/zsh/site-functions/_swaylock

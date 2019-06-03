@@ -1,0 +1,24 @@
+Source: swaylock
+Section: x11
+Priority: optional
+Maintainer: Aleksey Samoilov <samoilov.lex@gmail.com>
+Build-Depends: debhelper (>= 9),
+                              meson,
+                              git,
+                              cmake,
+                              libwlroots-dev,
+                              libwayland-dev,
+                              libxkbcommon-dev,
+                              libcairo2-dev,
+                              libgdk-pixbuf2.0-dev,
+                              libpam0g-dev,
+                              libpango1.0-dev,
+                              scdoc,
+                              wayland-protocols
+Standards-Version: 3.9.8
+Homepage: https://github.com/swaywm/swaylock
+
+Package: swaylock
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: swaylock is a screen locking utility for Wayland compositors
