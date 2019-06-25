@@ -1,3 +1,9 @@
+swaylock (1.4-2~disco) disco; urgency=low
+
+  * New release
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Tue, 25 Jun 2019 17:30:28 +0400
+
 swaylock (1.4-1~disco) disco; urgency=low
 
   * New release
