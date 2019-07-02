@@ -21,4 +21,5 @@ Homepage: https://github.com/swaywm/swaylock
 Package: swaylock-effects
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: swaylock is a screen locking utility for Wayland compositors
+Conflicts: swaylock
+Description: swaylock-effects is fork of swaylock. A screen locking utility for Wayland compositors with clock and fancy effects.

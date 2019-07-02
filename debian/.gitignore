@@ -1,7 +1,6 @@
-sway-backgrounds/
+swaylock-effects/
 tmp/
 usr/
-mako/
 debhelper-build-stamp
 files
 *.log
