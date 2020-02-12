@@ -1,4 +1,10 @@
-swaylock-effects (1.4-1~disco) disco; urgency=low
+swaylock-effects (1.6-1~luis1) disco; urgency=low
+
+  * New release
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 12 Feb 2020 09:30:28 +0400
+
+ swaylock-effects (1.4-1~disco) disco; urgency=low
 
   * New release
 
