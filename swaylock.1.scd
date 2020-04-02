@@ -53,7 +53,7 @@ Locks your Wayland session.
 	Show a clock in the indicator.
 
 *--timestr* <format>
-	The time format for the indicator clock. Defaults to '%X'.
+	The time format for the indicator clock. Defaults to '%T'.
 
 *--datestr* <format>
 	The date format for the indicator clock. Defaults to '%a, %x'.
@@ -211,6 +211,10 @@ Locks your Wayland session.
 *--effect-vignette <base>:<factor>*
 	Apply a vignette effect to images.
 	Base and factor should be numbers between 0 and 1.
+
+*--effect-compose <position>;<size>;<gravity>;<path>*
+	Overlay another image to your lock screen.
+	The _position_, _size_ and _gravity_ part is optional.
 
 *--effect-custom <path>*
 	Load a custom effect from a shared object. The .so must export a++
